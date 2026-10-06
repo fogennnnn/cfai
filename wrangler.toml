@@ -1,0 +1,5 @@
+# cfai — redeployed from the live Cloudflare Worker of the same name.
+# Re-attach your own bindings (IDs below are placeholders) before `wrangler deploy`.
+name = "cfai"
+main = "worker.js"
+compatibility_date = "2025-01-01"
